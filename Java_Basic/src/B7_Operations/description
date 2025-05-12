@@ -1,0 +1,7 @@
+Aritméticos: +, -, *, /, %
+
+Relacionais: ==, !=, >, <, >=, <=
+
+Lógicos: &&, ||, !
+
+Atribuição: =, +=, -=, etc.
