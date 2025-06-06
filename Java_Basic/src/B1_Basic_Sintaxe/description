@@ -1,3 +1,59 @@
-Estrutura de um programa Java (main, System.out.println)
+Sintaxe em programação:
 
-Comentários (//, /* */)
+    É o conjunto de regras que determinam como a linguagem deve ser escrita para o compilador interpretar o código e
+    executa-la da forma correta, no geral a forma correta com a qual a linguagem deve ser escrita.
+
+    //Básico
+    Dentro de sua área de estudo estão:
+    1. Estrutura Básica do Código;
+    2. Tipos de Dados;
+    3. Declaração de Variáveis;
+    4. Operadores;
+    5. Estruturas de Controle;
+    6. Métodos;
+    7. Classes e Objetos;
+    8. Modificadores de Acesso;
+    9. Arrays;
+    10. Entrada e Saída;
+    11. Tratamento de Erros (básico);
+    12. Importação de Pacotes
+
+    //Intermediário
+    13. Sobrecarga e Sobrescrita;
+    14. Herança;
+    15. Interfaces e Implementação;
+    16. Classes Abstratas;
+    17. Modificadores Especiais;
+    18. Enumerações (enum);
+    19. Varargs (Argumentos Variáveis);
+    20. Blocos de Inicialização;
+    21. Palavras-chave Especiais;
+    22. Casting (Conversões de Tipos);
+    23. Anotações (Annotations);
+    24. Tratamento de Exceções Avançado;
+
+    //Avançado
+    25. Programação Funcional (desde Java 8);
+    26. Generics;
+    27. Coleções Avançadas (java.util);
+    28. Manipulação de Arquivos (I/O e NIO);
+    29. Threads e Concorrência;
+    30. Reflexão (java.lang.reflect);
+    31. Anotações Personalizadas;
+    32. Expressões Regulares (Pattern e Matcher);
+    33. Modularização (Java 9+);
+    34. Record Classes (Java 14+);
+    35. Sealed Classes (Java 15+);
+    36. Switch Expressions (Java 14+);
+    37. Pattern Matching (Java 16+);
+    38. Multiplataforma (com JNI e JavaFX);
+    39. Tratamento Avançado de Exceções;
+    40. Boas Práticas e Design Patterns;
+
+    //Complementos Avançados
+    41. APIs Internas Importantes;
+    42. Testes Automatizados;
+    43. Boas Práticas de Codificação Java (Clean Code);
+    44. Ferramentas do Ecossistema Java;
+    45. Documentação com JavaDoc;
+    46. Internals da JVM (para domínio completo);

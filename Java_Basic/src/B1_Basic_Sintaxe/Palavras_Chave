@@ -1,0 +1,4 @@
+package:
+    Organiza classes e interfaces em pacotes(pastas), evita conlfitos entre pacotes de classes de mesmo nome
+    controla o acesso e facilita a distribuição e reutilização de códigos.
+
